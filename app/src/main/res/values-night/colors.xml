@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--my color pallete-->
+    <color name="left">#246B5D</color>
+    <color name="leftcenter">#98EEDD</color>
+    <color name="center">#50EBCB</color>
+    <color name="centerright">#456B63</color>
+    <color name="right">#3EB89F</color>
+
+    <color name="backgroud">#3F3D40</color>
+    <color name="cardBackgroud">#7E7980</color>
+    <color name="primaryFont">#FAF1FE</color>
+    <color name="secondFont">#E2DAE6</color>
+
+
+
+
+
+</resources>
